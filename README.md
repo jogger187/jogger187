@@ -19,8 +19,6 @@ I'm currently exploring the blockchain and am excited about building products th
 ### Languages and Tools:
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=jogger187&show_icons=true&hide_border=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jogger187&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">UI Component</h3>
